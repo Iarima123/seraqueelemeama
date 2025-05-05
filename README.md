@@ -1,4 +1,4 @@
-# seraqueelemeama
+# Seraqueelemeama
 Ebook 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -141,7 +141,19 @@ Ebook
     </div>
 
 </body>
-</html>
+</html><script type="text/javascript">
+	function importHotmart(){ 
+ 		var imported = document.createElement('script'); 
+ 		imported.src = 'https://static.hotmart.com/checkout/widget.min.js'; 
+ 		document.head.appendChild(imported); 
+		var link = document.createElement('link'); 
+		link.rel = 'stylesheet'; 
+		link.type = 'text/css'; 
+		link.href = 'https://static.hotmart.com/css/hotmart-fb.min.css'; 
+		document.head.appendChild(link);	} 
+ 	importHotmart(); 
+ </script> 
+ <a onclick="return false;" href="https://pay.hotmart.com/K99577928B?checkoutMode=2" class="hotmart-fb hotmart__button-checkout"><img src='https://static.hotmart.com/img/btn-buy-green.png'></a> 
 
 
 
