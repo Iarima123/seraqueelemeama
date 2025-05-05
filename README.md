@@ -93,7 +93,58 @@ Ebook
     <li>Teste: \"Você está em um relacionamento real ou em uma ilusão?\"</li>
     <li>Cartas prontas para partir ou ficar</li>
     <li>Acesso ao grupo fechado de leitura com a autora</li>
-  </ul>
+  </ul> <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compra - Será que ele/ela me ama?</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 1.2em;
+            color: #555;
+        }
+        .btn-pagar {
+            background-color: #ff6600;
+            color: white;
+            padding: 15px 30px;
+            font-size: 1.2em;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+        .btn-pagar:hover {
+            background-color: #e65c00;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Compre o livro "Será que ele/ela me ama?" agora!</h1>
+        <p>Adquira o livro digital e descubra tudo sobre relacionamentos com 12 sinais para identificar o amor verdadeiro!</p>
+        <a href="https://pay.hotmart.com/K99577928B" class="btn-pagar" target="_blank">Pagar Agora</a>
+    </div>
+
+</body>
+</html>
+
+
 
   <a href="LINK_DO_SEU_PRODUTO_HOTMART" class="button">QUERO DESCOBRIR SE É AMOR VERDADEIRO</a>
 </body>
